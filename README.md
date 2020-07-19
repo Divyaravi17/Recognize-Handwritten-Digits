@@ -2,7 +2,10 @@
 
 ## Overview
 
-This is a simple prediction problem to identify the handwritten digits using Neural Networks with Tensorflow. The trained model uses dataset from MNIST. MNIST is generally used for Machine learning and Deep learning models.
+This is a simple prediction problem to identify the handwritten digits using Neural Networks with Tensorflow. 
+Tensorflow - open source library used for Machine Learning and Deep Learning applications.
+The trained model uses dataset from MNIST. 
+MNIST is generally used for Machine learning and Deep learning models.
 
 ## Technical Aspect
 
