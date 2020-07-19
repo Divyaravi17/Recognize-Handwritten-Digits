@@ -39,5 +39,7 @@ We train our model using the training images and training labels for the number 
 
 Epoch--> To decrease loss in each iteration.
 
+### g) Evaluate the Model
 
+After training, evaluate our model using test images and obtain the accuracy of our model. Based on the accuracy, we make predictions of the input images and verify it using Data Visualization (Matplot library).
 
