@@ -17,4 +17,8 @@ We need to normalize the data before feeding it to the Neural network. Pixel val
 
 ### d) Build Model
 
-
+--> Sequential() - We use Sequence of Neural network layers
+--> Flatten() - Changes the dimension of the image
+--> Dense() - Adds layers of Neurons
+--> Relu Activation function - Passes only 0 or greater to next layer
+--> Softmax Activation function - Passes only greatest of value
