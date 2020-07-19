@@ -24,10 +24,17 @@ We need to normalize the data before feeding it to the Neural network. Pixel val
 --> Softmax Activation function - Passes only greatest of value
 
 ### e) Compile Model
+
 Optimization algorithms are responsible for reducing the loss and increasing the accuracy of the model.
 Here, Adam Optimizer is used because it is efficient, easy to implement and occcupies little memory.
 
 Accuracy is used as Metrics as we need to evaluate the accuracy of the model.
+
+### f) Train the Model
+
+We train our model using the training images and training labels for the number of epochs.
+
+Epoch--> To decrease loss in each iteration.
 
 
 
