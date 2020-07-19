@@ -22,3 +22,12 @@ We need to normalize the data before feeding it to the Neural network. Pixel val
 --> Dense() - Adds layers of Neurons
 --> Relu Activation function - Passes only 0 or greater to next layer
 --> Softmax Activation function - Passes only greatest of value
+
+### e) Compile Model
+Optimization algorithms are responsible for reducing the loss and increasing the accuracy of the model.
+Here, Adam Optimizer is used because it is efficient, easy to implement and occcupies little memory.
+
+Accuracy is used as Metrics as we need to evaluate the accuracy of the model.
+
+
+
